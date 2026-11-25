@@ -1,0 +1,701 @@
+User_ID,Content_Type,Content_Duration,Watch_Time,Pause_Count,Replay_Count,Notes_Count,Quiz_Attempts,Quiz_Score,Login_Frequency,Session_Duration,Previous_Content_Completion,Device_Type,Time_of_Day,Completion_Status
+U101,ML,45,26.6,4,0,3,1,72,3,45,Yes,Mobile,Evening,Not Completed
+U102,WebDev,45,42.2,0,2,2,2,91,8,68,Yes,Laptop,Night,Completed
+U103,AI Basics,20,13.6,1,0,0,1,41,5,25,No,Laptop,Night,Completed
+U104,ML,20,12.9,1,0,1,1,47,5,37,No,Mobile,Evening,Completed
+U105,WebDev,45,44.4,2,4,4,2,89,6,41,Yes,Mobile,Night,Completed
+U106,Python,45,39.6,2,2,6,2,100,8,47,Yes,Tablet,Afternoon,Completed
+U107,AI Basics,40,8.0,6,0,0,1,15,0,10,No,Mobile,Afternoon,Not Completed
+U108,DataScience,40,28.4,2,2,5,1,65,6,71,No,Laptop,Afternoon,Completed
+U109,ML,60,56.5,2,4,2,2,68,10,56,No,Laptop,Morning,Completed
+U110,DataScience,30,21.6,1,2,3,2,68,6,48,No,Tablet,Night,Completed
+U111,ML,40,14.6,6,0,0,1,31,2,20,No,Laptop,Afternoon,Not Completed
+U112,WebDev,60,55.8,0,4,3,1,81,8,60,No,Mobile,Night,Completed
+U113,SQL,45,15.5,3,0,0,0,9,0,17,No,Mobile,Afternoon,Not Completed
+U114,Python,45,5.5,2,0,0,1,8,1,15,No,Laptop,Night,Not Completed
+U115,ML,60,45.3,1,2,6,1,97,10,87,Yes,Mobile,Night,Completed
+U116,DataScience,20,17.4,2,2,4,2,67,5,64,Yes,Laptop,Evening,Completed
+U117,WebDev,60,34.3,1,2,2,2,58,3,22,No,Mobile,Evening,Not Completed
+U118,Python,40,21.0,1,2,0,2,72,2,41,No,Laptop,Night,Not Completed
+U119,DataScience,20,14.3,1,1,3,2,90,9,67,Yes,Mobile,Night,Not Completed
+U120,SQL,45,43.8,2,1,2,2,76,7,63,No,Tablet,Afternoon,Completed
+U121,DataScience,60,39.5,3,0,3,2,64,4,39,No,Tablet,Morning,Completed
+U122,SQL,30,24.5,0,1,6,1,70,8,59,No,Laptop,Night,Completed
+U123,Python,30,13.9,3,1,1,2,45,2,30,No,Mobile,Afternoon,Not Completed
+U124,ML,60,36.9,2,1,3,2,67,5,39,No,Tablet,Afternoon,Not Completed
+U125,WebDev,40,39.7,0,1,4,2,66,4,72,No,Mobile,Night,Completed
+U126,WebDev,45,21.2,1,2,1,1,59,3,34,No,Mobile,Evening,Not Completed
+U127,ML,30,20.2,4,2,0,2,52,5,32,Yes,Mobile,Night,Completed
+U128,AI Basics,60,49.8,2,2,3,1,96,10,73,No,Tablet,Night,Completed
+U129,DataScience,40,29.8,1,3,2,1,69,5,72,Yes,Tablet,Afternoon,Not Completed
+U130,SQL,40,28.4,1,3,5,1,67,4,54,Yes,Tablet,Evening,Not Completed
+U131,ML,30,16.7,1,1,1,1,72,2,43,No,Tablet,Afternoon,Not Completed
+U132,Python,40,17.9,4,0,2,1,53,2,29,No,Mobile,Night,Not Completed
+U133,AI Basics,40,32.2,2,3,6,1,89,9,87,Yes,Mobile,Night,Completed
+U134,ML,30,8.0,5,0,0,1,5,0,17,No,Tablet,Afternoon,Not Completed
+U135,SQL,60,39.6,2,0,3,1,53,2,26,No,Tablet,Evening,Completed
+U136,ML,30,17.5,4,1,1,1,56,3,33,No,Mobile,Night,Not Completed
+U137,DataScience,40,38.3,0,1,4,2,84,9,48,No,Mobile,Afternoon,Completed
+U138,DataScience,30,21.0,2,3,6,2,77,7,54,No,Tablet,Night,Completed
+U139,Python,40,5.6,4,0,0,1,22,1,19,No,Tablet,Morning,Not Completed
+U140,SQL,20,15.5,1,1,3,2,69,9,59,Yes,Tablet,Afternoon,Completed
+U141,ML,40,35.4,2,2,6,1,73,7,89,No,Laptop,Afternoon,Completed
+U142,Python,40,10.3,2,0,0,0,9,1,6,No,Laptop,Night,Not Completed
+U143,Python,20,5.6,6,0,0,0,14,2,19,No,Laptop,Evening,Not Completed
+U144,DataScience,20,10.2,3,1,3,2,72,3,34,Yes,Mobile,Night,Not Completed
+U145,ML,60,19.5,4,0,0,1,9,0,5,No,Laptop,Evening,Not Completed
+U146,AI Basics,40,39.6,1,2,3,1,65,8,50,Yes,Mobile,Morning,Completed
+U147,ML,60,35.3,1,0,1,1,74,2,22,Yes,Mobile,Morning,Not Completed
+U148,ML,30,19.1,1,1,2,2,62,5,21,No,Mobile,Night,Not Completed
+U149,ML,20,2.5,4,0,0,1,16,2,10,No,Laptop,Evening,Not Completed
+U150,SQL,45,23.3,3,0,0,2,45,5,30,Yes,Tablet,Afternoon,Not Completed
+U151,SQL,40,31.2,2,4,3,1,88,9,67,No,Tablet,Morning,Completed
+U152,AI Basics,45,43.4,2,2,2,2,84,8,61,Yes,Mobile,Morning,Completed
+U153,DataScience,60,42.6,0,2,4,1,79,10,81,Yes,Mobile,Evening,Not Completed
+U154,ML,40,26.8,2,2,2,2,49,4,31,Yes,Laptop,Morning,Completed
+U155,ML,40,32.6,0,4,2,2,82,5,90,No,Tablet,Afternoon,Completed
+U156,Python,20,6.9,3,0,0,1,41,2,11,No,Mobile,Night,Not Completed
+U157,DataScience,40,10.2,2,0,0,0,45,0,7,No,Mobile,Night,Not Completed
+U158,Python,45,40.1,0,2,6,2,93,10,85,Yes,Laptop,Night,Completed
+U159,AI Basics,60,48.3,2,4,4,2,85,9,56,Yes,Mobile,Evening,Completed
+U160,AI Basics,40,29.9,0,3,3,1,86,4,50,Yes,Tablet,Afternoon,Completed
+U161,Python,20,17.4,2,2,3,2,75,8,88,Yes,Mobile,Afternoon,Completed
+U162,AI Basics,40,19.9,4,1,2,1,55,4,30,Yes,Laptop,Night,Not Completed
+U163,ML,20,13.4,4,1,1,1,68,2,48,No,Laptop,Morning,Not Completed
+U164,ML,60,17.1,2,0,0,0,19,2,9,No,Tablet,Morning,Not Completed
+U165,AI Basics,20,7.9,5,0,0,0,36,1,16,No,Tablet,Night,Not Completed
+U166,DataScience,45,20.5,3,2,1,2,44,3,25,No,Tablet,Evening,Not Completed
+U167,WebDev,40,8.7,2,0,0,1,34,2,6,No,Mobile,Afternoon,Not Completed
+U168,ML,45,35.4,0,4,4,1,85,6,79,No,Tablet,Night,Completed
+U169,WebDev,45,13.0,4,0,0,0,42,0,10,No,Mobile,Afternoon,Not Completed
+U170,SQL,45,25.2,2,2,2,1,47,4,38,Yes,Mobile,Afternoon,Not Completed
+U171,AI Basics,20,11.3,2,2,3,2,65,4,39,Yes,Laptop,Afternoon,Not Completed
+U172,Python,40,9.0,4,0,0,1,31,1,12,No,Mobile,Evening,Not Completed
+U173,SQL,40,10.4,6,0,0,0,16,2,10,No,Mobile,Afternoon,Not Completed
+U174,Python,40,26.9,2,2,1,2,73,2,21,Yes,Tablet,Night,Completed
+U175,ML,45,35.6,0,2,3,1,89,9,80,Yes,Mobile,Night,Completed
+U176,DataScience,40,36.0,2,2,2,1,86,4,47,Yes,Tablet,Evening,Completed
+U177,WebDev,45,10.9,2,0,0,1,3,2,13,No,Mobile,Evening,Not Completed
+U178,WebDev,45,42.9,1,4,5,2,95,10,58,No,Mobile,Night,Completed
+U179,ML,20,6.4,6,0,0,1,15,1,13,No,Laptop,Night,Not Completed
+U180,ML,45,36.1,0,3,4,2,83,9,68,Yes,Tablet,Morning,Completed
+U181,SQL,20,13.4,4,1,3,2,64,3,36,No,Mobile,Afternoon,Completed
+U182,WebDev,20,17.8,2,4,5,1,98,10,49,Yes,Tablet,Night,Completed
+U183,AI Basics,45,42.3,0,3,3,1,75,9,86,Yes,Mobile,Evening,Completed
+U184,WebDev,45,27.9,1,1,2,1,57,2,42,Yes,Laptop,Night,Not Completed
+U185,SQL,20,16.9,2,3,2,1,99,5,42,Yes,Tablet,Night,Completed
+U186,SQL,45,30.3,3,2,0,2,60,4,25,Yes,Mobile,Afternoon,Completed
+U187,SQL,60,13.0,6,0,0,0,1,0,13,No,Laptop,Morning,Not Completed
+U188,WebDev,40,33.7,1,1,5,2,80,8,82,Yes,Mobile,Morning,Completed
+U189,ML,45,26.6,4,2,1,1,73,2,35,No,Mobile,Afternoon,Not Completed
+U190,ML,40,5.7,6,0,0,0,30,2,11,No,Mobile,Evening,Not Completed
+U191,DataScience,40,29.7,2,3,4,2,82,6,63,Yes,Laptop,Afternoon,Completed
+U192,SQL,60,56.1,0,3,6,2,79,9,78,Yes,Laptop,Afternoon,Completed
+U193,WebDev,20,8.3,1,1,1,2,67,5,47,Yes,Tablet,Night,Not Completed
+U194,DataScience,30,28.9,2,1,4,2,72,8,72,Yes,Laptop,Evening,Completed
+U195,DataScience,20,14.1,0,3,5,1,69,6,61,Yes,Tablet,Evening,Not Completed
+U196,ML,45,42.6,0,2,6,1,96,10,79,Yes,Laptop,Afternoon,Completed
+U197,Python,40,13.7,6,0,0,1,35,1,17,No,Laptop,Morning,Not Completed
+U198,ML,45,39.8,0,1,4,2,84,9,74,Yes,Tablet,Morning,Completed
+U199,ML,20,16.7,0,1,2,1,80,9,83,Yes,Mobile,Night,Completed
+U200,ML,60,50.0,2,1,5,2,67,5,70,No,Laptop,Afternoon,Completed
+U201,ML,20,5.4,4,0,0,0,12,1,8,No,Laptop,Afternoon,Not Completed
+U202,DataScience,40,16.8,3,2,3,2,59,2,33,Yes,Mobile,Afternoon,Not Completed
+U203,SQL,45,24.2,1,1,2,2,74,2,39,Yes,Laptop,Afternoon,Not Completed
+U204,DataScience,40,14.5,4,0,0,0,9,1,18,No,Mobile,Afternoon,Not Completed
+U205,SQL,40,32.7,0,3,2,1,74,9,51,Yes,Laptop,Night,Completed
+U206,WebDev,20,17.4,0,2,2,2,69,7,45,Yes,Laptop,Evening,Completed
+U207,Python,30,26.4,1,3,3,2,83,4,59,Yes,Laptop,Afternoon,Completed
+U208,DataScience,60,35.8,3,2,2,1,64,5,37,No,Tablet,Afternoon,Not Completed
+U209,AI Basics,30,28.2,1,3,5,1,84,8,47,Yes,Mobile,Afternoon,Completed
+U210,AI Basics,20,14.0,2,3,2,2,71,8,61,No,Tablet,Morning,Completed
+U211,SQL,60,6.1,6,0,0,1,8,1,5,No,Mobile,Night,Not Completed
+U212,ML,45,8.2,3,0,0,0,8,0,14,No,Laptop,Afternoon,Not Completed
+U213,WebDev,45,11.1,2,0,0,0,15,1,7,No,Laptop,Morning,Not Completed
+U214,SQL,30,23.1,2,4,3,1,88,4,77,Yes,Laptop,Morning,Completed
+U215,WebDev,30,28.1,0,3,4,2,86,8,74,No,Mobile,Afternoon,Completed
+U216,WebDev,40,32.7,2,1,4,1,91,7,63,Yes,Tablet,Evening,Completed
+U217,Python,40,39.0,1,4,4,2,79,4,44,Yes,Mobile,Morning,Completed
+U218,ML,20,18.3,1,3,5,2,90,10,67,No,Mobile,Afternoon,Completed
+U219,WebDev,20,11.2,1,2,1,2,62,3,27,Yes,Mobile,Morning,Not Completed
+U220,DataScience,30,15.5,2,1,3,1,49,2,34,No,Tablet,Afternoon,Not Completed
+U221,Python,60,58.7,0,4,5,1,70,8,71,Yes,Laptop,Morning,Completed
+U222,SQL,30,4.0,6,0,0,0,6,2,14,No,Laptop,Night,Not Completed
+U223,ML,30,3.1,5,0,0,1,31,2,20,No,Laptop,Afternoon,Not Completed
+U224,AI Basics,60,16.6,4,0,0,1,38,1,15,No,Tablet,Night,Not Completed
+U225,Python,30,24.0,0,3,4,1,90,6,73,No,Mobile,Morning,Completed
+U226,WebDev,45,7.7,4,0,0,1,29,1,5,No,Mobile,Morning,Not Completed
+U227,ML,45,43.6,0,1,5,2,92,10,76,Yes,Mobile,Night,Completed
+U228,Python,20,15.8,1,2,4,2,71,5,43,Yes,Mobile,Morning,Completed
+U229,ML,45,22.8,1,1,2,2,44,3,34,Yes,Tablet,Morning,Not Completed
+U230,SQL,45,36.6,2,2,5,1,93,4,48,No,Mobile,Evening,Completed
+U231,Python,20,9.4,4,0,1,2,52,4,37,No,Laptop,Morning,Not Completed
+U232,Python,20,8.1,4,1,3,1,67,3,20,No,Mobile,Night,Not Completed
+U233,ML,40,21.6,1,0,3,2,47,2,46,Yes,Mobile,Evening,Not Completed
+U234,Python,60,55.3,2,3,5,1,70,5,48,Yes,Mobile,Afternoon,Completed
+U235,AI Basics,40,29.2,0,3,2,1,66,9,90,Yes,Laptop,Evening,Completed
+U236,DataScience,45,14.6,4,0,0,0,12,1,5,No,Tablet,Afternoon,Not Completed
+U237,AI Basics,20,3.1,5,0,0,0,28,0,16,No,Tablet,Afternoon,Not Completed
+U238,DataScience,45,36.5,2,4,6,1,87,8,46,Yes,Laptop,Night,Completed
+U239,WebDev,45,22.6,2,2,1,1,60,3,22,No,Laptop,Afternoon,Not Completed
+U240,AI Basics,30,27.7,2,1,6,1,66,5,90,Yes,Mobile,Afternoon,Completed
+U241,AI Basics,30,15.5,3,1,0,1,75,2,43,No,Tablet,Night,Not Completed
+U242,SQL,40,18.4,2,2,3,1,47,4,25,No,Tablet,Night,Not Completed
+U243,AI Basics,20,13.2,2,2,2,1,70,5,50,No,Mobile,Evening,Completed
+U244,DataScience,60,16.4,6,0,0,0,15,2,14,No,Laptop,Morning,Not Completed
+U245,DataScience,45,33.8,0,1,5,1,92,5,61,Yes,Laptop,Morning,Completed
+U246,AI Basics,40,22.6,2,0,0,2,73,5,44,No,Tablet,Evening,Not Completed
+U247,Python,20,15.7,1,2,6,2,96,6,61,Yes,Tablet,Night,Completed
+U248,AI Basics,60,54.5,0,4,6,1,74,10,60,No,Mobile,Evening,Completed
+U249,WebDev,20,4.7,4,0,0,0,21,1,18,No,Laptop,Night,Not Completed
+U250,SQL,30,27.4,1,1,3,1,77,6,51,Yes,Mobile,Night,Completed
+U251,AI Basics,40,26.5,1,1,1,2,54,3,23,Yes,Tablet,Evening,Completed
+U252,AI Basics,40,20.9,2,0,1,1,71,3,37,Yes,Tablet,Night,Not Completed
+U253,WebDev,45,16.9,6,0,0,0,23,0,12,No,Tablet,Afternoon,Not Completed
+U254,AI Basics,45,35.4,2,3,2,1,85,8,49,Yes,Tablet,Night,Completed
+U255,ML,30,14.4,2,1,2,1,48,5,23,No,Mobile,Night,Not Completed
+U256,AI Basics,20,12.6,4,2,0,1,57,2,40,No,Mobile,Evening,Not Completed
+U257,AI Basics,60,54.6,0,1,4,2,69,4,70,Yes,Mobile,Afternoon,Completed
+U258,WebDev,60,21.5,2,0,0,0,14,1,14,No,Laptop,Morning,Not Completed
+U259,ML,45,34.5,0,3,4,2,72,10,73,Yes,Laptop,Evening,Completed
+U260,AI Basics,30,14.5,4,1,0,2,51,2,30,No,Laptop,Night,Not Completed
+U261,WebDev,20,17.4,1,4,6,2,88,5,89,Yes,Tablet,Morning,Completed
+U262,WebDev,30,11.5,5,0,0,0,7,0,12,No,Laptop,Afternoon,Not Completed
+U263,Python,40,38.8,1,1,4,2,75,8,68,Yes,Mobile,Morning,Completed
+U264,WebDev,30,28.8,0,4,3,1,91,9,41,Yes,Tablet,Night,Completed
+U265,Python,30,14.4,1,1,3,1,68,3,28,Yes,Mobile,Night,Not Completed
+U266,Python,20,13.1,3,0,2,1,54,2,23,Yes,Laptop,Morning,Completed
+U267,AI Basics,60,40.3,4,0,2,2,45,4,33,Yes,Tablet,Night,Not Completed
+U268,DataScience,20,19.5,2,2,2,2,82,5,71,No,Laptop,Afternoon,Completed
+U269,Python,60,22.9,3,0,0,1,5,2,19,No,Tablet,Morning,Not Completed
+U270,ML,20,5.3,4,0,0,0,42,2,20,No,Mobile,Afternoon,Not Completed
+U271,AI Basics,20,6.5,5,0,0,1,34,0,17,No,Mobile,Night,Not Completed
+U272,SQL,20,13.7,3,0,0,2,54,5,31,Yes,Mobile,Morning,Not Completed
+U273,ML,45,41.7,0,3,2,2,89,9,69,Yes,Mobile,Afternoon,Completed
+U274,ML,20,5.0,4,0,0,0,31,0,10,No,Laptop,Evening,Not Completed
+U275,AI Basics,30,23.2,1,4,6,1,87,4,53,Yes,Tablet,Evening,Completed
+U276,AI Basics,20,13.7,4,2,1,2,61,3,32,No,Mobile,Morning,Not Completed
+U277,SQL,45,44.9,1,3,5,2,74,7,42,Yes,Laptop,Evening,Completed
+U278,ML,20,18.7,2,4,5,2,85,6,46,No,Laptop,Morning,Completed
+U279,ML,30,16.1,3,2,2,2,59,5,24,No,Mobile,Afternoon,Not Completed
+U280,ML,60,37.4,2,2,3,2,72,5,38,No,Laptop,Night,Completed
+U281,WebDev,20,19.8,2,1,4,1,69,6,70,No,Tablet,Morning,Completed
+U282,SQL,60,27.2,3,0,3,1,44,4,37,No,Mobile,Morning,Not Completed
+U283,WebDev,60,56.4,2,3,5,1,84,9,57,Yes,Mobile,Afternoon,Completed
+U284,WebDev,40,39.5,2,3,4,1,77,4,47,Yes,Mobile,Afternoon,Completed
+U285,WebDev,30,10.0,3,0,0,0,4,2,20,No,Mobile,Afternoon,Not Completed
+U286,DataScience,30,5.7,4,0,0,0,18,1,18,No,Tablet,Evening,Not Completed
+U287,SQL,60,24.8,3,0,3,1,72,2,24,No,Mobile,Night,Not Completed
+U288,AI Basics,20,19.4,2,1,6,2,91,7,51,Yes,Mobile,Morning,Completed
+U289,DataScience,20,11.9,1,1,0,2,53,2,40,No,Laptop,Afternoon,Not Completed
+U290,ML,45,25.2,3,1,0,2,62,2,37,No,Tablet,Afternoon,Not Completed
+U291,SQL,30,14.3,1,0,0,2,51,4,32,Yes,Laptop,Afternoon,Not Completed
+U292,AI Basics,45,29.2,4,2,2,2,43,4,36,No,Tablet,Afternoon,Completed
+U293,Python,45,29.7,2,2,0,2,63,3,44,Yes,Tablet,Afternoon,Completed
+U294,Python,30,12.4,1,1,0,1,44,5,35,Yes,Laptop,Morning,Not Completed
+U295,ML,20,9.7,2,0,0,1,75,4,25,No,Tablet,Evening,Not Completed
+U296,AI Basics,60,24.4,3,2,0,2,64,5,42,Yes,Tablet,Morning,Not Completed
+U297,ML,60,36.3,2,1,1,2,70,4,28,Yes,Mobile,Afternoon,Completed
+U298,AI Basics,20,9.2,2,1,1,2,43,2,50,No,Laptop,Morning,Not Completed
+U299,WebDev,20,19.4,2,3,5,1,94,10,76,Yes,Mobile,Night,Completed
+U300,WebDev,45,44.4,1,4,5,2,76,8,74,No,Tablet,Night,Completed
+U301,ML,45,26.9,4,1,0,2,57,5,29,Yes,Tablet,Morning,Not Completed
+U302,WebDev,60,45.1,0,4,6,2,95,6,53,Yes,Mobile,Night,Completed
+U303,ML,60,43.6,2,4,6,1,79,7,75,No,Tablet,Afternoon,Completed
+U304,AI Basics,20,2.5,4,0,0,1,25,0,6,No,Laptop,Evening,Not Completed
+U305,AI Basics,30,11.3,4,0,0,0,9,2,5,No,Mobile,Night,Not Completed
+U306,Python,45,33.2,1,4,3,2,89,10,45,Yes,Tablet,Night,Completed
+U307,ML,45,37.6,2,4,6,2,79,7,51,Yes,Laptop,Evening,Completed
+U308,SQL,40,29.0,0,3,6,2,80,9,63,Yes,Mobile,Night,Not Completed
+U309,SQL,30,6.6,5,0,0,1,40,1,8,No,Tablet,Evening,Not Completed
+U310,DataScience,30,21.2,1,3,4,2,89,6,63,No,Mobile,Morning,Completed
+U311,Python,60,37.4,1,0,2,2,62,4,35,Yes,Mobile,Night,Not Completed
+U312,ML,20,16.4,2,4,4,1,74,8,62,Yes,Tablet,Night,Completed
+U313,WebDev,20,11.0,2,1,2,2,53,5,27,Yes,Mobile,Morning,Not Completed
+U314,AI Basics,30,29.4,0,4,3,2,65,5,69,No,Tablet,Afternoon,Completed
+U315,WebDev,60,54.9,0,4,4,2,93,6,50,Yes,Tablet,Night,Completed
+U316,SQL,45,23.7,3,1,2,2,46,3,34,No,Laptop,Evening,Not Completed
+U317,ML,40,14.8,2,0,0,0,18,1,10,No,Tablet,Night,Not Completed
+U318,AI Basics,30,6.7,4,0,0,0,34,2,20,No,Laptop,Evening,Not Completed
+U319,ML,60,7.4,5,0,0,0,24,2,13,No,Tablet,Morning,Not Completed
+U320,DataScience,45,18.3,1,0,1,2,41,5,25,Yes,Mobile,Afternoon,Not Completed
+U321,Python,40,21.2,2,1,1,1,58,3,33,No,Tablet,Morning,Not Completed
+U322,DataScience,40,7.5,6,0,0,0,27,1,19,No,Laptop,Afternoon,Not Completed
+U323,WebDev,60,34.2,3,1,1,1,47,5,27,No,Laptop,Afternoon,Not Completed
+U324,ML,30,21.7,1,3,6,1,67,8,71,Yes,Laptop,Afternoon,Completed
+U325,WebDev,30,25.5,0,4,4,1,91,4,50,No,Laptop,Afternoon,Completed
+U326,DataScience,45,5.2,3,0,0,0,43,1,12,No,Laptop,Night,Not Completed
+U327,SQL,45,11.1,4,0,0,0,42,0,6,No,Laptop,Night,Not Completed
+U328,Python,20,13.1,1,2,2,2,61,3,47,No,Mobile,Morning,Completed
+U329,AI Basics,20,19.9,0,2,5,1,97,8,58,No,Mobile,Evening,Completed
+U330,SQL,60,45.8,0,2,2,1,100,8,40,No,Mobile,Evening,Completed
+U331,SQL,40,31.2,0,1,6,1,71,5,61,No,Laptop,Night,Completed
+U332,SQL,60,38.5,4,2,1,2,68,5,27,Yes,Mobile,Night,Completed
+U333,ML,30,7.2,2,0,0,0,14,2,19,No,Mobile,Afternoon,Not Completed
+U334,AI Basics,45,21.7,3,2,2,2,51,5,50,No,Tablet,Afternoon,Not Completed
+U335,WebDev,45,27.6,3,0,1,1,48,2,23,Yes,Tablet,Night,Completed
+U336,SQL,60,28.9,4,1,2,2,75,2,45,No,Mobile,Afternoon,Not Completed
+U337,SQL,30,23.9,0,2,4,2,92,5,66,No,Mobile,Afternoon,Completed
+U338,AI Basics,30,23.6,1,1,6,2,89,4,78,No,Laptop,Afternoon,Completed
+U339,DataScience,40,37.4,0,1,5,1,81,8,59,Yes,Laptop,Afternoon,Completed
+U340,WebDev,20,9.3,1,1,0,1,51,3,42,Yes,Mobile,Night,Not Completed
+U341,ML,20,12.5,2,2,0,1,42,3,26,Yes,Laptop,Night,Completed
+U342,ML,40,39.1,1,1,2,2,70,4,59,No,Mobile,Afternoon,Completed
+U343,WebDev,40,32.1,1,2,4,1,99,10,45,No,Laptop,Evening,Completed
+U344,DataScience,45,41.4,1,3,5,1,77,8,61,No,Mobile,Night,Completed
+U345,DataScience,30,14.4,4,2,3,1,48,4,34,Yes,Tablet,Afternoon,Not Completed
+U346,WebDev,40,33.9,2,4,6,1,74,4,89,Yes,Laptop,Morning,Completed
+U347,ML,40,27.9,3,2,0,1,47,4,27,No,Tablet,Afternoon,Completed
+U348,WebDev,40,7.0,6,0,0,1,33,2,15,No,Mobile,Morning,Not Completed
+U349,Python,30,6.0,5,0,0,0,0,0,9,No,Tablet,Night,Not Completed
+U350,SQL,60,38.5,3,1,0,2,55,4,49,No,Mobile,Evening,Completed
+U101,AI Basics,40,15.3,5,0,0,1,28,1,5,No,Tablet,Evening,Not Completed
+U102,WebDev,40,34.9,2,2,5,2,93,10,58,No,Tablet,Evening,Completed
+U103,Python,20,13.2,1,1,2,2,41,2,40,No,Tablet,Evening,Not Completed
+U104,AI Basics,45,10.0,2,0,0,0,40,2,13,No,Mobile,Morning,Not Completed
+U105,ML,60,7.9,2,0,0,1,40,2,16,No,Tablet,Morning,Not Completed
+U106,DataScience,30,27.9,2,2,2,1,88,7,78,No,Tablet,Evening,Completed
+U107,Python,60,6.7,6,0,0,0,2,2,12,No,Mobile,Afternoon,Not Completed
+U108,SQL,45,41.5,2,1,2,2,91,8,54,No,Laptop,Morning,Completed
+U109,AI Basics,30,13.9,4,0,3,2,66,3,38,Yes,Mobile,Morning,Not Completed
+U110,WebDev,40,28.6,2,3,4,1,76,9,49,Yes,Mobile,Evening,Not Completed
+U111,Python,60,25.5,1,0,0,2,65,3,32,Yes,Tablet,Evening,Not Completed
+U112,DataScience,60,46.3,0,3,3,1,100,5,55,Yes,Laptop,Evening,Completed
+U113,WebDev,45,22.6,3,1,2,2,59,4,47,No,Tablet,Evening,Not Completed
+U114,DataScience,40,4.5,6,0,0,1,13,1,14,No,Tablet,Evening,Not Completed
+U115,Python,30,15.5,4,0,3,1,67,4,20,No,Laptop,Morning,Not Completed
+U116,DataScience,40,31.5,1,4,2,2,73,5,52,Yes,Mobile,Night,Completed
+U117,ML,20,18.4,2,1,4,1,70,10,42,Yes,Mobile,Night,Completed
+U118,Python,45,7.0,6,0,0,0,40,2,20,No,Tablet,Morning,Not Completed
+U119,SQL,30,19.4,3,1,1,2,43,2,50,No,Laptop,Evening,Not Completed
+U120,ML,45,16.6,4,0,0,1,7,2,14,No,Mobile,Afternoon,Not Completed
+U121,SQL,30,25.5,1,2,5,2,81,10,69,Yes,Mobile,Evening,Completed
+U122,DataScience,30,27.6,2,3,2,2,84,9,78,Yes,Tablet,Afternoon,Completed
+U123,ML,45,21.3,4,1,1,1,60,2,43,No,Laptop,Evening,Not Completed
+U124,AI Basics,45,12.5,6,0,0,0,5,1,17,No,Mobile,Morning,Not Completed
+U125,WebDev,20,18.5,0,2,3,1,68,6,41,Yes,Mobile,Morning,Completed
+U126,ML,30,13.0,4,2,1,1,64,3,34,No,Mobile,Afternoon,Not Completed
+U127,ML,30,6.0,5,0,0,1,20,0,15,No,Laptop,Evening,Not Completed
+U128,ML,30,8.0,2,0,0,0,26,1,10,No,Mobile,Morning,Not Completed
+U129,DataScience,45,29.3,4,2,2,2,71,5,47,Yes,Laptop,Afternoon,Completed
+U130,WebDev,40,15.3,2,0,0,0,42,1,5,No,Laptop,Night,Not Completed
+U131,DataScience,30,24.7,1,3,5,2,71,9,73,No,Tablet,Night,Completed
+U132,DataScience,45,29.4,4,1,0,2,49,4,37,No,Laptop,Night,Completed
+U133,AI Basics,45,21.6,3,2,0,1,48,4,37,No,Laptop,Afternoon,Not Completed
+U134,ML,40,16.1,1,1,0,1,74,3,30,Yes,Mobile,Night,Not Completed
+U135,AI Basics,60,18.3,6,0,0,1,7,1,12,No,Laptop,Morning,Not Completed
+U136,WebDev,40,22.2,4,1,1,2,73,3,28,Yes,Laptop,Morning,Not Completed
+U137,ML,45,38.3,0,1,4,2,68,5,84,Yes,Tablet,Morning,Completed
+U138,Python,40,20.7,4,1,1,1,47,2,34,Yes,Mobile,Evening,Not Completed
+U139,WebDev,45,19.1,3,2,0,2,63,2,48,No,Mobile,Evening,Not Completed
+U140,WebDev,60,10.5,2,0,0,1,19,0,6,No,Laptop,Evening,Not Completed
+U141,DataScience,30,17.4,4,1,2,2,42,5,30,No,Mobile,Evening,Not Completed
+U142,ML,45,17.2,2,0,0,0,17,1,13,No,Laptop,Evening,Not Completed
+U143,SQL,60,57.0,1,1,4,2,86,7,88,Yes,Laptop,Night,Completed
+U144,DataScience,20,14.6,1,1,2,2,82,4,58,Yes,Tablet,Night,Not Completed
+U145,DataScience,30,7.5,6,0,0,0,17,2,18,No,Tablet,Evening,Not Completed
+U146,SQL,45,6.3,3,0,0,1,25,2,13,No,Mobile,Night,Not Completed
+U147,Python,20,8.2,3,2,2,2,55,3,21,No,Tablet,Morning,Not Completed
+U148,ML,20,15.7,1,4,2,2,77,4,72,Yes,Laptop,Afternoon,Completed
+U149,SQL,20,9.0,1,1,2,2,54,5,29,Yes,Laptop,Evening,Not Completed
+U150,AI Basics,30,28.9,0,1,2,1,72,9,50,No,Laptop,Evening,Completed
+U151,DataScience,20,8.0,2,2,1,1,66,4,24,Yes,Mobile,Morning,Not Completed
+U152,AI Basics,45,40.6,0,2,2,2,84,4,64,Yes,Laptop,Afternoon,Completed
+U153,WebDev,45,20.0,3,2,3,2,45,4,42,No,Tablet,Afternoon,Not Completed
+U154,AI Basics,45,41.5,0,4,4,1,80,4,65,Yes,Mobile,Afternoon,Completed
+U155,AI Basics,20,6.6,2,0,0,0,42,1,9,No,Mobile,Evening,Not Completed
+U156,WebDev,45,31.3,4,2,0,2,73,4,33,Yes,Laptop,Night,Not Completed
+U157,ML,60,33.3,4,1,1,2,74,5,30,No,Mobile,Evening,Not Completed
+U158,DataScience,30,7.6,6,0,0,0,30,1,15,No,Mobile,Afternoon,Not Completed
+U159,ML,20,9.5,4,0,2,1,58,2,21,Yes,Laptop,Evening,Not Completed
+U160,SQL,20,11.3,4,1,0,2,64,2,30,No,Mobile,Afternoon,Not Completed
+U161,DataScience,20,16.9,1,4,5,1,91,5,84,No,Laptop,Evening,Completed
+U162,DataScience,45,30.2,2,2,2,1,54,3,22,No,Mobile,Night,Not Completed
+U163,AI Basics,40,39.1,0,2,2,1,94,7,79,No,Laptop,Afternoon,Completed
+U164,AI Basics,40,33.5,1,2,3,1,72,9,46,Yes,Mobile,Evening,Completed
+U165,Python,40,38.4,2,4,4,1,92,6,90,Yes,Tablet,Night,Completed
+U166,Python,45,32.6,2,3,4,2,70,6,72,No,Tablet,Evening,Not Completed
+U167,SQL,40,35.1,2,3,4,1,89,5,71,No,Laptop,Morning,Completed
+U168,DataScience,30,29.0,1,1,3,1,65,7,66,No,Tablet,Evening,Completed
+U169,SQL,20,16.5,1,4,6,2,86,10,42,Yes,Tablet,Night,Completed
+U170,Python,20,18.6,0,3,5,1,67,6,68,Yes,Tablet,Morning,Completed
+U171,WebDev,40,5.8,2,0,0,0,32,2,5,No,Mobile,Morning,Not Completed
+U172,SQL,40,17.5,2,0,3,1,56,2,44,No,Laptop,Afternoon,Not Completed
+U173,SQL,20,11.3,3,1,0,1,56,2,31,Yes,Mobile,Morning,Not Completed
+U174,Python,30,18.2,3,1,2,2,43,5,37,Yes,Mobile,Night,Not Completed
+U175,ML,20,13.4,3,1,1,2,42,2,24,Yes,Laptop,Afternoon,Not Completed
+U176,AI Basics,60,44.7,0,3,3,2,94,7,76,Yes,Mobile,Afternoon,Completed
+U177,AI Basics,40,22.3,3,0,1,1,53,5,32,No,Laptop,Morning,Not Completed
+U178,ML,20,12.9,4,1,1,1,64,3,44,Yes,Laptop,Morning,Completed
+U179,ML,60,52.3,2,3,4,1,74,8,82,No,Laptop,Evening,Completed
+U180,DataScience,30,14.3,1,1,1,1,60,3,31,No,Tablet,Morning,Not Completed
+U181,AI Basics,45,5.7,4,0,0,0,33,1,14,No,Mobile,Evening,Not Completed
+U182,SQL,40,37.9,0,3,5,2,95,4,55,Yes,Laptop,Morning,Completed
+U183,Python,20,4.9,2,0,0,0,16,2,13,No,Tablet,Morning,Not Completed
+U184,WebDev,45,19.2,1,2,3,2,68,5,33,No,Laptop,Morning,Not Completed
+U185,DataScience,60,53.9,2,4,5,1,99,9,60,Yes,Mobile,Evening,Completed
+U186,WebDev,45,33.2,0,4,3,2,82,5,80,No,Mobile,Night,Not Completed
+U187,SQL,45,38.7,1,2,2,1,68,4,54,Yes,Mobile,Afternoon,Completed
+U188,DataScience,45,41.3,0,2,4,1,83,8,45,No,Tablet,Morning,Completed
+U189,WebDev,60,51.8,1,3,6,2,96,8,57,Yes,Tablet,Evening,Completed
+U190,ML,20,17.3,1,1,2,1,76,10,49,Yes,Tablet,Night,Completed
+U191,ML,60,49.0,0,4,4,1,68,9,70,No,Mobile,Evening,Completed
+U192,ML,60,37.7,3,0,0,1,50,5,27,Yes,Tablet,Evening,Completed
+U193,ML,20,15.7,1,4,6,2,69,4,90,No,Tablet,Night,Completed
+U194,Python,40,31.9,2,2,3,2,83,9,83,Yes,Mobile,Morning,Completed
+U195,AI Basics,30,6.9,4,0,0,1,7,1,5,No,Laptop,Morning,Not Completed
+U196,Python,30,10.8,2,0,0,0,30,0,16,No,Tablet,Night,Not Completed
+U197,DataScience,20,18.9,1,3,4,2,100,4,61,No,Tablet,Evening,Completed
+U198,AI Basics,40,36.1,1,4,2,1,87,6,61,Yes,Mobile,Afternoon,Completed
+U199,ML,60,54.5,1,4,6,1,72,8,73,Yes,Mobile,Evening,Completed
+U200,Python,60,53.6,2,1,5,1,83,7,81,No,Tablet,Morning,Completed
+U201,Python,20,4.2,3,0,0,0,17,1,5,No,Tablet,Morning,Not Completed
+U202,DataScience,40,27.1,1,2,0,2,58,2,21,No,Tablet,Night,Completed
+U203,ML,45,24.8,4,1,0,2,73,5,35,No,Mobile,Afternoon,Not Completed
+U204,Python,60,57.4,1,1,3,1,89,10,57,Yes,Laptop,Morning,Completed
+U205,AI Basics,40,33.9,2,2,4,2,74,5,60,Yes,Tablet,Afternoon,Completed
+U206,DataScience,60,42.1,1,3,5,2,95,10,46,Yes,Mobile,Afternoon,Completed
+U207,DataScience,30,22.4,2,3,6,2,88,6,51,Yes,Laptop,Night,Not Completed
+U208,WebDev,45,20.5,1,2,0,1,47,4,36,Yes,Mobile,Evening,Not Completed
+U209,WebDev,45,40.2,0,1,6,2,73,8,62,No,Laptop,Morning,Completed
+U210,ML,30,28.1,1,1,4,1,65,5,90,Yes,Mobile,Morning,Completed
+U211,WebDev,60,54.2,2,1,5,1,91,9,84,No,Laptop,Night,Completed
+U212,DataScience,45,36.7,2,4,2,1,75,9,68,Yes,Mobile,Night,Completed
+U213,ML,45,31.8,1,3,4,2,79,9,75,Yes,Laptop,Afternoon,Completed
+U214,SQL,60,59.6,2,3,3,1,65,5,69,No,Tablet,Afternoon,Completed
+U215,DataScience,40,7.4,2,0,0,0,26,0,8,No,Mobile,Evening,Not Completed
+U216,Python,40,29.4,2,1,5,1,82,7,82,Yes,Laptop,Morning,Not Completed
+U217,SQL,20,14.2,2,3,5,1,91,4,79,Yes,Tablet,Morning,Completed
+U218,SQL,45,25.8,1,2,3,2,58,2,42,No,Laptop,Morning,Not Completed
+U219,ML,45,37.4,0,3,6,2,89,5,69,Yes,Tablet,Night,Completed
+U220,WebDev,20,16.4,2,3,2,2,69,8,84,Yes,Laptop,Night,Completed
+U221,DataScience,40,39.3,1,1,3,2,72,10,68,Yes,Laptop,Evening,Completed
+U222,WebDev,60,53.8,2,1,3,1,93,7,58,Yes,Tablet,Afternoon,Completed
+U223,AI Basics,40,16.5,1,0,3,1,68,2,46,No,Laptop,Morning,Not Completed
+U224,WebDev,20,18.2,1,4,2,2,86,6,56,Yes,Laptop,Morning,Completed
+U225,WebDev,30,3.3,6,0,0,0,19,1,5,No,Mobile,Morning,Not Completed
+U226,Python,30,14.5,3,0,1,2,40,3,45,No,Tablet,Night,Not Completed
+U227,ML,20,9.0,2,0,1,1,42,2,47,No,Laptop,Afternoon,Not Completed
+U228,AI Basics,60,44.0,0,2,5,1,79,5,40,No,Mobile,Morning,Not Completed
+U229,DataScience,60,27.8,2,1,1,1,44,3,34,Yes,Tablet,Evening,Not Completed
+U230,DataScience,30,7.2,4,0,0,1,25,1,10,No,Laptop,Morning,Not Completed
+U231,Python,20,8.8,4,1,3,1,49,3,49,Yes,Tablet,Night,Not Completed
+U232,AI Basics,20,13.8,1,2,3,1,71,2,24,No,Mobile,Night,Not Completed
+U233,WebDev,40,22.2,1,2,1,2,63,2,24,Yes,Mobile,Evening,Not Completed
+U234,ML,40,32.5,1,1,2,1,92,7,43,Yes,Laptop,Night,Completed
+U235,DataScience,60,35.1,4,1,2,1,68,3,21,No,Tablet,Evening,Not Completed
+U236,ML,30,16.2,3,1,1,1,74,2,24,Yes,Mobile,Afternoon,Not Completed
+U237,ML,30,10.4,4,0,0,1,32,1,12,No,Tablet,Night,Not Completed
+U238,Python,45,28.0,3,2,3,1,54,2,32,Yes,Mobile,Evening,Completed
+U239,DataScience,45,29.6,3,1,0,1,72,5,47,No,Mobile,Night,Completed
+U240,ML,40,11.0,5,0,0,1,19,1,16,No,Laptop,Evening,Not Completed
+U241,Python,30,26.2,0,3,4,1,83,5,64,Yes,Tablet,Afternoon,Completed
+U242,SQL,30,8.7,2,0,0,1,30,1,5,No,Mobile,Evening,Not Completed
+U243,SQL,30,14.1,1,1,2,1,69,3,23,Yes,Laptop,Morning,Not Completed
+U244,WebDev,60,43.2,1,1,5,1,71,9,90,No,Laptop,Morning,Completed
+U245,WebDev,40,21.2,2,2,0,2,56,2,45,Yes,Laptop,Evening,Not Completed
+U246,ML,40,28.0,1,3,4,2,85,10,47,Yes,Laptop,Afternoon,Not Completed
+U247,Python,60,30.1,3,1,2,1,48,3,34,No,Mobile,Night,Not Completed
+U248,Python,60,41.2,2,1,1,2,68,2,44,Yes,Mobile,Morning,Completed
+U249,SQL,30,15.2,1,0,1,2,50,4,48,Yes,Mobile,Evening,Not Completed
+U250,SQL,45,12.1,2,0,0,1,21,0,19,No,Laptop,Afternoon,Not Completed
+U251,DataScience,40,5.3,2,0,0,0,4,2,6,No,Laptop,Afternoon,Not Completed
+U252,AI Basics,45,12.1,3,0,0,1,25,0,11,No,Laptop,Morning,Not Completed
+U253,AI Basics,30,21.0,2,3,2,2,76,10,41,Yes,Tablet,Afternoon,Completed
+U254,ML,60,37.9,4,0,2,1,42,5,40,Yes,Mobile,Morning,Not Completed
+U255,Python,60,18.6,5,0,0,1,41,1,7,No,Tablet,Evening,Not Completed
+U256,DataScience,30,16.7,3,0,1,2,59,2,35,No,Tablet,Afternoon,Not Completed
+U257,WebDev,40,21.2,1,0,1,1,41,5,39,No,Laptop,Evening,Not Completed
+U258,ML,60,51.9,0,1,5,1,86,5,77,Yes,Mobile,Night,Completed
+U259,Python,40,35.0,1,4,6,2,69,7,54,No,Tablet,Evening,Completed
+U260,Python,60,18.1,5,0,0,0,43,2,9,No,Laptop,Morning,Not Completed
+U261,SQL,45,38.1,1,2,6,2,75,8,43,Yes,Tablet,Evening,Completed
+U262,DataScience,30,20.1,4,2,2,2,59,4,23,No,Laptop,Evening,Completed
+U263,WebDev,20,8.2,3,0,3,1,49,3,50,Yes,Mobile,Afternoon,Not Completed
+U264,AI Basics,20,18.9,1,1,5,2,71,4,60,Yes,Tablet,Evening,Completed
+U265,SQL,20,9.1,4,0,2,2,41,5,38,No,Mobile,Evening,Not Completed
+U266,WebDev,30,20.0,3,1,1,2,70,3,50,No,Laptop,Morning,Not Completed
+U267,ML,20,16.9,0,1,6,1,74,8,48,Yes,Laptop,Evening,Completed
+U268,SQL,20,17.2,2,3,3,1,75,9,89,Yes,Tablet,Morning,Completed
+U269,SQL,40,26.8,4,0,3,2,60,5,32,No,Laptop,Afternoon,Completed
+U270,WebDev,30,22.2,2,2,4,2,92,10,40,Yes,Laptop,Afternoon,Completed
+U271,Python,30,29.0,2,1,5,1,73,5,84,Yes,Mobile,Night,Completed
+U272,WebDev,40,29.7,2,4,4,1,98,8,56,Yes,Laptop,Morning,Not Completed
+U273,SQL,40,8.2,3,0,0,1,41,0,8,No,Tablet,Evening,Not Completed
+U274,AI Basics,45,38.2,1,3,5,1,84,5,74,Yes,Laptop,Night,Completed
+U275,Python,30,6.6,3,0,0,1,8,0,18,No,Tablet,Night,Not Completed
+U276,WebDev,30,5.5,3,0,0,0,8,1,6,No,Mobile,Evening,Not Completed
+U277,DataScience,40,12.5,4,0,0,1,42,0,6,No,Laptop,Night,Not Completed
+U278,AI Basics,60,47.2,2,2,3,2,68,10,45,No,Laptop,Afternoon,Completed
+U279,ML,45,17.5,4,0,0,0,21,2,5,No,Mobile,Afternoon,Not Completed
+U280,SQL,45,27.8,2,1,2,2,51,5,45,Yes,Laptop,Night,Completed
+U281,ML,40,13.8,6,0,0,0,6,0,17,No,Laptop,Morning,Not Completed
+U282,SQL,30,29.7,1,4,3,2,76,9,48,No,Tablet,Morning,Completed
+U283,SQL,45,35.7,1,2,4,2,79,8,84,No,Tablet,Night,Completed
+U284,Python,60,12.8,3,0,0,1,26,1,5,No,Laptop,Night,Not Completed
+U285,Python,20,19.7,2,1,4,2,77,5,61,Yes,Mobile,Afternoon,Completed
+U286,SQL,30,9.5,4,0,0,1,22,1,9,No,Mobile,Afternoon,Not Completed
+U287,Python,40,31.5,0,3,4,2,98,4,45,Yes,Mobile,Afternoon,Completed
+U288,DataScience,45,27.9,2,0,1,1,74,3,48,Yes,Mobile,Evening,Not Completed
+U289,Python,30,9.5,6,0,0,0,19,2,9,No,Laptop,Night,Not Completed
+U290,Python,45,44.0,1,2,4,1,80,8,53,Yes,Mobile,Morning,Completed
+U291,Python,20,3.0,6,0,0,1,44,0,12,No,Laptop,Morning,Not Completed
+U292,DataScience,45,17.4,3,0,0,0,5,1,16,No,Mobile,Evening,Not Completed
+U293,WebDev,40,12.7,4,0,0,0,17,1,20,No,Tablet,Night,Not Completed
+U294,AI Basics,40,7.5,3,0,0,0,39,2,18,No,Laptop,Morning,Not Completed
+U295,Python,20,17.4,2,4,2,1,83,9,89,Yes,Tablet,Afternoon,Completed
+U296,DataScience,40,26.8,3,2,1,1,49,2,47,No,Laptop,Evening,Not Completed
+U297,ML,45,18.2,4,2,0,2,52,5,33,Yes,Laptop,Evening,Not Completed
+U298,Python,30,25.0,1,4,2,2,95,6,62,Yes,Laptop,Morning,Completed
+U299,Python,60,15.7,4,0,0,0,45,2,20,No,Tablet,Night,Not Completed
+U300,AI Basics,20,16.2,1,2,6,2,90,6,52,No,Tablet,Afternoon,Completed
+U301,WebDev,40,34.8,1,1,5,2,73,6,90,Yes,Laptop,Night,Completed
+U302,WebDev,30,28.4,1,3,5,1,69,8,59,No,Tablet,Morning,Completed
+U303,Python,60,23.8,2,0,0,0,25,0,19,No,Tablet,Night,Not Completed
+U304,Python,30,8.4,4,0,0,0,22,0,10,No,Tablet,Evening,Not Completed
+U305,DataScience,60,52.1,2,2,5,2,78,4,77,Yes,Laptop,Afternoon,Completed
+U306,ML,60,45.2,1,2,2,1,66,8,69,Yes,Mobile,Afternoon,Completed
+U307,SQL,20,10.5,3,0,1,2,64,4,49,Yes,Laptop,Night,Not Completed
+U308,WebDev,40,19.7,2,0,0,1,67,5,44,No,Mobile,Night,Not Completed
+U309,SQL,30,7.7,2,0,0,0,37,2,9,No,Mobile,Night,Not Completed
+U310,Python,60,23.1,6,0,0,1,25,0,14,No,Laptop,Morning,Not Completed
+U311,ML,20,11.1,1,2,1,2,49,4,26,No,Tablet,Afternoon,Not Completed
+U312,WebDev,60,19.9,4,0,0,0,44,1,8,No,Mobile,Evening,Not Completed
+U313,SQL,20,9.5,3,2,2,2,63,4,20,Yes,Mobile,Night,Not Completed
+U314,DataScience,40,22.7,1,1,0,2,52,3,29,Yes,Laptop,Night,Not Completed
+U315,DataScience,20,6.1,5,0,0,0,31,1,16,No,Mobile,Afternoon,Not Completed
+U316,Python,30,15.5,2,2,3,2,64,3,25,No,Mobile,Night,Not Completed
+U317,WebDev,30,20.1,3,1,1,2,69,2,33,No,Tablet,Evening,Completed
+U318,ML,60,59.1,1,4,5,2,91,5,70,No,Tablet,Night,Completed
+U319,AI Basics,40,23.8,3,2,3,2,73,2,49,No,Mobile,Evening,Not Completed
+U320,AI Basics,40,20.1,2,2,3,1,65,5,35,No,Tablet,Night,Not Completed
+U321,Python,60,53.3,2,2,4,1,80,7,73,No,Laptop,Morning,Completed
+U322,DataScience,40,35.9,0,2,2,2,72,8,76,Yes,Mobile,Evening,Completed
+U323,SQL,45,44.2,0,4,3,1,72,10,79,Yes,Mobile,Morning,Completed
+U324,WebDev,40,35.0,2,2,6,2,67,8,69,Yes,Mobile,Afternoon,Completed
+U325,ML,40,29.3,1,1,2,2,65,7,55,Yes,Mobile,Evening,Completed
+U326,Python,30,9.1,5,0,0,1,30,0,19,No,Laptop,Night,Not Completed
+U327,AI Basics,45,41.2,0,2,5,2,82,9,57,Yes,Mobile,Morning,Completed
+U328,Python,30,16.3,1,2,2,2,57,2,47,Yes,Laptop,Afternoon,Not Completed
+U329,SQL,40,31.6,0,1,6,1,75,7,79,Yes,Tablet,Evening,Completed
+U330,SQL,40,28.6,0,2,3,1,66,7,44,Yes,Laptop,Night,Completed
+U331,AI Basics,45,18.2,1,1,3,1,40,5,40,Yes,Tablet,Evening,Not Completed
+U332,ML,20,5.8,2,0,0,0,16,2,18,No,Tablet,Evening,Not Completed
+U333,WebDev,20,18.5,1,4,2,1,86,4,80,Yes,Tablet,Afternoon,Completed
+U334,SQL,45,25.5,1,2,1,1,61,4,29,Yes,Mobile,Afternoon,Not Completed
+U335,WebDev,30,16.7,3,2,0,2,42,2,31,Yes,Tablet,Afternoon,Not Completed
+U336,AI Basics,60,26.4,4,1,3,2,47,4,48,No,Laptop,Morning,Not Completed
+U337,AI Basics,60,32.7,1,0,2,1,60,2,46,Yes,Tablet,Morning,Not Completed
+U338,DataScience,40,4.0,5,0,0,0,24,0,18,No,Laptop,Night,Not Completed
+U339,ML,40,23.4,3,2,1,1,61,3,22,Yes,Laptop,Afternoon,Not Completed
+U340,Python,20,5.4,6,0,0,0,32,0,15,No,Tablet,Night,Not Completed
+U341,DataScience,20,5.2,4,0,0,0,29,1,14,No,Mobile,Morning,Not Completed
+U342,Python,40,23.8,3,0,2,2,40,3,21,Yes,Mobile,Morning,Not Completed
+U343,Python,30,28.8,0,3,2,2,94,10,75,Yes,Mobile,Afternoon,Completed
+U344,AI Basics,60,56.2,2,3,2,1,92,4,63,No,Mobile,Night,Completed
+U345,AI Basics,45,14.5,4,0,0,1,2,2,16,No,Tablet,Night,Not Completed
+U346,Python,45,7.2,3,0,0,1,3,1,11,No,Tablet,Morning,Not Completed
+U347,Python,60,42.6,2,2,2,1,86,4,65,Yes,Laptop,Morning,Not Completed
+U348,WebDev,40,26.0,4,1,2,2,58,3,49,No,Mobile,Evening,Completed
+U349,Python,45,19.4,4,0,3,2,45,5,41,Yes,Mobile,Night,Not Completed
+U350,SQL,60,53.5,2,3,3,2,85,7,51,Yes,Mobile,Morning,Completed
+U101,AI Basics,40,21.7,2,0,2,2,70,4,25,Yes,Laptop,Morning,Not Completed
+U102,ML,40,33.3,2,3,4,2,86,6,90,Yes,Laptop,Night,Completed
+U103,SQL,45,41.7,0,2,2,1,75,4,76,Yes,Mobile,Afternoon,Completed
+U104,DataScience,20,9.7,3,2,2,1,66,5,48,No,Laptop,Afternoon,Not Completed
+U105,SQL,45,26.9,4,0,3,2,43,4,48,No,Tablet,Night,Not Completed
+U106,SQL,30,24.5,0,3,2,2,88,4,78,Yes,Tablet,Afternoon,Completed
+U107,DataScience,40,14.2,5,0,0,0,44,0,8,No,Mobile,Afternoon,Not Completed
+U108,Python,20,19.6,0,4,3,1,85,7,45,No,Tablet,Evening,Completed
+U109,ML,30,25.5,1,3,2,1,100,5,66,Yes,Laptop,Evening,Completed
+U110,DataScience,20,9.4,1,0,1,1,43,4,22,Yes,Tablet,Evening,Not Completed
+U111,WebDev,45,7.1,3,0,0,1,17,1,17,No,Laptop,Evening,Not Completed
+U112,AI Basics,20,16.7,2,3,2,2,65,6,65,Yes,Mobile,Afternoon,Completed
+U113,SQL,30,20.6,1,1,0,1,63,4,33,Yes,Tablet,Morning,Not Completed
+U114,WebDev,45,6.0,4,0,0,0,25,2,7,No,Tablet,Evening,Not Completed
+U115,SQL,20,13.0,4,2,0,1,47,4,41,Yes,Mobile,Morning,Completed
+U116,WebDev,60,59.6,0,1,5,1,89,4,54,Yes,Tablet,Afternoon,Completed
+U117,WebDev,40,38.6,0,4,2,2,81,7,56,Yes,Laptop,Evening,Completed
+U118,SQL,45,5.4,5,0,0,1,33,0,18,No,Tablet,Evening,Not Completed
+U119,DataScience,60,55.5,2,1,3,1,96,5,50,Yes,Tablet,Night,Completed
+U120,AI Basics,45,28.0,1,1,2,1,50,3,21,Yes,Tablet,Evening,Not Completed
+U121,SQL,40,39.2,1,4,2,1,96,5,58,Yes,Mobile,Evening,Completed
+U122,WebDev,45,12.1,6,0,0,1,20,1,17,No,Laptop,Afternoon,Not Completed
+U123,ML,40,30.8,2,4,6,1,72,7,83,Yes,Mobile,Night,Completed
+U124,Python,20,14.9,1,2,3,2,90,10,73,No,Mobile,Evening,Not Completed
+U125,Python,30,6.5,5,0,0,1,11,2,11,No,Mobile,Night,Not Completed
+U126,SQL,60,12.4,2,0,0,1,20,1,11,No,Mobile,Afternoon,Not Completed
+U127,AI Basics,40,26.7,3,2,1,1,72,5,28,Yes,Laptop,Evening,Not Completed
+U128,AI Basics,60,28.9,2,2,2,2,54,4,28,Yes,Laptop,Afternoon,Not Completed
+U129,DataScience,45,15.2,2,0,0,0,25,1,20,No,Tablet,Morning,Not Completed
+U130,WebDev,60,28.3,2,1,0,2,70,4,38,No,Tablet,Night,Not Completed
+U131,AI Basics,45,35.1,0,2,6,1,90,6,84,No,Tablet,Night,Completed
+U132,WebDev,60,40.1,2,2,2,2,43,2,37,No,Laptop,Afternoon,Not Completed
+U133,ML,45,19.8,4,0,2,1,59,5,41,Yes,Laptop,Afternoon,Not Completed
+U134,WebDev,20,15.4,2,4,5,2,70,8,89,Yes,Tablet,Night,Completed
+U135,SQL,30,20.8,1,2,3,1,64,3,24,No,Tablet,Morning,Not Completed
+U136,DataScience,30,21.9,1,2,3,2,72,9,57,Yes,Mobile,Night,Completed
+U137,AI Basics,60,47.3,2,1,2,1,65,8,63,Yes,Mobile,Evening,Completed
+U138,DataScience,60,39.8,4,1,1,1,73,4,45,No,Tablet,Night,Completed
+U139,ML,20,15.4,1,1,2,2,65,5,68,Yes,Mobile,Afternoon,Completed
+U140,AI Basics,40,29.7,0,1,3,1,82,9,78,No,Tablet,Afternoon,Not Completed
+U141,ML,30,7.7,5,0,0,0,26,2,6,No,Mobile,Morning,Not Completed
+U142,DataScience,40,5.8,5,0,0,0,11,0,8,No,Laptop,Evening,Not Completed
+U143,DataScience,60,31.6,1,0,1,2,60,3,22,No,Mobile,Morning,Not Completed
+U144,Python,40,6.7,6,0,0,0,10,1,20,No,Mobile,Afternoon,Not Completed
+U145,SQL,30,21.6,1,4,5,1,91,8,82,No,Laptop,Afternoon,Completed
+U146,AI Basics,20,9.6,4,2,2,1,43,5,35,No,Mobile,Evening,Not Completed
+U147,ML,30,7.1,2,0,0,1,25,1,12,No,Mobile,Afternoon,Not Completed
+U148,ML,45,36.0,1,3,3,2,70,9,84,Yes,Mobile,Afternoon,Completed
+U149,AI Basics,30,26.1,2,4,3,1,70,8,53,Yes,Mobile,Afternoon,Completed
+U150,Python,60,40.9,2,1,1,1,40,5,39,Yes,Tablet,Morning,Completed
+U151,WebDev,45,30.2,4,2,1,2,43,2,35,Yes,Mobile,Morning,Not Completed
+U152,SQL,20,20.0,0,2,5,2,65,5,48,Yes,Tablet,Night,Completed
+U153,WebDev,20,5.9,4,0,0,0,38,1,7,No,Laptop,Evening,Not Completed
+U154,DataScience,45,24.8,4,2,3,2,52,2,28,No,Tablet,Morning,Not Completed
+U155,SQL,20,5.6,5,0,0,1,3,0,9,No,Tablet,Night,Not Completed
+U156,Python,40,38.4,0,1,2,1,79,8,47,Yes,Laptop,Evening,Completed
+U157,ML,30,14.1,2,2,2,1,48,5,22,No,Mobile,Evening,Not Completed
+U158,DataScience,45,43.5,1,4,3,2,72,7,43,No,Tablet,Night,Completed
+U159,Python,45,38.4,2,4,5,2,92,10,60,Yes,Laptop,Morning,Completed
+U160,ML,20,6.0,2,0,0,0,9,2,17,No,Tablet,Morning,Not Completed
+U161,DataScience,45,7.6,5,0,0,1,24,2,11,No,Mobile,Night,Not Completed
+U162,DataScience,45,9.8,2,0,0,1,38,1,16,No,Laptop,Afternoon,Not Completed
+U163,Python,60,20.5,2,0,0,0,42,0,18,No,Tablet,Afternoon,Not Completed
+U164,AI Basics,45,22.3,3,2,0,2,71,4,36,No,Laptop,Morning,Not Completed
+U165,DataScience,40,15.2,4,0,0,1,25,2,17,No,Mobile,Afternoon,Not Completed
+U166,SQL,20,8.9,3,0,0,1,56,4,31,Yes,Tablet,Night,Not Completed
+U167,ML,60,19.1,6,0,0,1,31,1,17,No,Mobile,Night,Not Completed
+U168,Python,60,54.5,1,1,5,1,67,4,40,Yes,Laptop,Evening,Completed
+U169,SQL,60,55.7,1,4,6,2,86,4,82,No,Laptop,Morning,Completed
+U170,Python,40,38.1,1,3,3,1,70,7,73,No,Laptop,Afternoon,Completed
+U171,Python,40,9.2,6,0,0,1,25,2,10,No,Mobile,Morning,Not Completed
+U172,Python,45,20.7,1,0,3,2,59,5,34,Yes,Mobile,Night,Not Completed
+U173,DataScience,45,27.2,1,0,0,2,72,3,45,No,Mobile,Afternoon,Completed
+U174,AI Basics,20,13.2,1,2,1,1,64,2,41,No,Tablet,Morning,Not Completed
+U175,SQL,30,27.5,0,4,5,2,65,9,55,Yes,Mobile,Evening,Completed
+U176,SQL,60,55.0,0,1,2,2,80,8,60,Yes,Tablet,Afternoon,Completed
+U177,SQL,40,34.9,0,3,5,2,78,6,47,Yes,Mobile,Night,Completed
+U178,WebDev,40,8.0,6,0,0,1,8,2,16,No,Mobile,Night,Not Completed
+U179,WebDev,20,17.7,0,1,5,2,69,7,60,Yes,Mobile,Morning,Completed
+U180,ML,30,23.5,2,3,5,2,100,4,62,Yes,Mobile,Afternoon,Completed
+U181,Python,40,17.5,1,1,0,1,68,3,20,No,Mobile,Afternoon,Not Completed
+U182,WebDev,30,22.3,1,3,6,1,79,7,56,No,Laptop,Afternoon,Not Completed
+U183,Python,20,3.7,4,0,0,1,19,2,7,No,Laptop,Afternoon,Not Completed
+U184,ML,60,45.7,0,3,5,1,77,7,72,No,Tablet,Afternoon,Completed
+U185,AI Basics,45,43.0,2,1,4,1,91,9,67,Yes,Mobile,Afternoon,Completed
+U186,SQL,60,53.7,0,1,2,2,86,10,67,Yes,Mobile,Afternoon,Completed
+U187,DataScience,20,19.5,1,1,2,1,81,4,74,Yes,Laptop,Night,Completed
+U188,Python,20,18.7,1,4,2,2,85,7,82,Yes,Mobile,Afternoon,Completed
+U189,AI Basics,45,17.9,4,0,0,0,32,1,12,No,Tablet,Night,Not Completed
+U190,Python,60,6.3,4,0,0,1,41,0,12,No,Laptop,Evening,Not Completed
+U191,ML,60,42.8,0,1,4,2,94,7,83,No,Laptop,Afternoon,Not Completed
+U192,SQL,60,46.0,0,2,2,2,67,8,85,Yes,Mobile,Night,Completed
+U193,AI Basics,60,24.1,2,2,1,1,42,2,32,Yes,Mobile,Evening,Not Completed
+U194,WebDev,20,2.6,6,0,0,1,17,1,11,No,Tablet,Night,Not Completed
+U195,AI Basics,45,43.9,2,1,4,2,93,6,79,Yes,Tablet,Evening,Completed
+U196,WebDev,20,4.2,3,0,0,0,22,1,20,No,Laptop,Morning,Not Completed
+U197,Python,60,57.6,1,2,6,2,92,5,67,Yes,Tablet,Afternoon,Completed
+U198,AI Basics,30,24.4,2,3,3,2,76,4,81,Yes,Tablet,Morning,Completed
+U199,ML,30,15.5,4,1,0,2,67,4,27,Yes,Tablet,Morning,Not Completed
+U200,DataScience,20,9.9,4,0,1,2,70,2,21,No,Mobile,Evening,Not Completed
+U201,SQL,60,57.3,0,4,4,1,66,5,86,Yes,Mobile,Night,Completed
+U202,AI Basics,40,34.1,2,3,4,1,92,7,90,No,Laptop,Evening,Completed
+U203,Python,40,36.9,1,4,3,1,97,5,40,Yes,Laptop,Morning,Completed
+U204,AI Basics,40,37.7,2,2,5,1,92,4,82,Yes,Laptop,Morning,Completed
+U205,WebDev,60,24.4,3,0,0,1,50,3,23,Yes,Mobile,Evening,Not Completed
+U206,AI Basics,60,19.7,4,0,0,1,28,2,13,No,Laptop,Night,Not Completed
+U207,ML,20,17.1,1,2,5,2,72,6,53,Yes,Mobile,Night,Completed
+U208,DataScience,40,35.7,2,3,6,1,95,9,66,Yes,Laptop,Morning,Completed
+U209,SQL,30,6.0,5,0,0,0,35,0,6,No,Mobile,Night,Not Completed
+U210,DataScience,45,32.9,0,2,4,1,67,6,75,Yes,Tablet,Night,Completed
+U211,WebDev,20,5.6,6,0,0,0,41,2,9,No,Tablet,Morning,Not Completed
+U212,DataScience,40,17.3,1,1,0,1,65,5,29,Yes,Mobile,Afternoon,Not Completed
+U213,AI Basics,40,17.7,4,1,1,1,68,5,38,No,Laptop,Evening,Not Completed
+U214,Python,60,47.0,0,4,6,2,91,4,76,Yes,Mobile,Evening,Completed
+U215,WebDev,60,6.0,4,0,0,1,34,1,11,No,Mobile,Night,Not Completed
+U216,SQL,60,38.3,1,1,0,2,45,4,34,No,Mobile,Evening,Completed
+U217,WebDev,60,16.6,5,0,0,1,34,2,6,No,Laptop,Afternoon,Not Completed
+U218,ML,45,32.4,1,1,3,2,87,7,45,No,Laptop,Night,Completed
+U219,ML,20,16.9,0,3,5,2,76,8,51,Yes,Mobile,Morning,Completed
+U220,WebDev,40,11.2,6,0,0,1,20,0,9,No,Laptop,Morning,Not Completed
+U221,DataScience,20,18.4,2,2,5,2,96,6,89,No,Tablet,Morning,Completed
+U222,AI Basics,60,9.5,5,0,0,1,31,0,14,No,Laptop,Afternoon,Not Completed
+U223,DataScience,60,36.5,1,2,1,2,48,4,23,No,Laptop,Evening,Not Completed
+U224,DataScience,45,33.7,1,3,2,2,71,6,89,No,Tablet,Afternoon,Not Completed
+U225,DataScience,20,7.6,3,0,0,1,21,2,11,No,Laptop,Night,Not Completed
+U226,WebDev,30,24.3,1,1,4,2,78,4,68,Yes,Tablet,Night,Completed
+U227,DataScience,30,5.6,5,0,0,1,33,1,10,No,Mobile,Afternoon,Not Completed
+U228,ML,20,17.3,2,2,6,1,100,6,73,No,Laptop,Morning,Completed
+U229,DataScience,45,31.4,2,1,1,1,60,4,50,No,Mobile,Afternoon,Not Completed
+U230,SQL,30,26.1,1,3,3,1,88,9,89,No,Tablet,Evening,Completed
+U231,WebDev,20,8.6,1,0,3,1,66,2,25,No,Mobile,Afternoon,Not Completed
+U232,SQL,40,6.4,3,0,0,1,24,0,14,No,Laptop,Afternoon,Not Completed
+U233,ML,45,16.4,6,0,0,0,40,2,9,No,Tablet,Afternoon,Not Completed
+U234,WebDev,40,32.4,2,3,3,2,65,9,71,Yes,Mobile,Night,Completed
+U235,AI Basics,20,14.0,3,2,0,1,48,2,45,No,Laptop,Evening,Not Completed
+U236,ML,60,34.2,4,0,1,2,53,5,50,Yes,Mobile,Morning,Not Completed
+U237,ML,30,16.4,1,0,3,1,55,4,34,Yes,Tablet,Evening,Not Completed
+U238,Python,40,37.7,0,2,6,1,82,5,59,No,Tablet,Morning,Completed
+U239,DataScience,60,26.5,2,1,1,2,73,3,49,Yes,Laptop,Morning,Not Completed
+U240,AI Basics,40,29.5,2,3,5,2,80,9,55,No,Laptop,Afternoon,Completed
+U241,Python,40,31.3,1,4,6,1,97,6,65,Yes,Tablet,Night,Completed
+U242,WebDev,60,12.4,4,0,0,1,45,1,9,No,Mobile,Evening,Not Completed
+U243,SQL,45,37.5,1,3,6,1,90,7,69,Yes,Laptop,Night,Completed
+U244,ML,20,8.3,4,1,0,2,41,2,46,Yes,Tablet,Evening,Not Completed
+U245,WebDev,40,23.4,1,2,0,2,53,5,21,No,Tablet,Night,Not Completed
+U246,WebDev,40,6.8,3,0,0,1,17,0,20,No,Laptop,Afternoon,Not Completed
+U247,WebDev,40,24.8,2,0,2,1,57,2,40,No,Tablet,Afternoon,Completed
+U248,AI Basics,40,32.0,2,3,2,2,67,4,65,Yes,Laptop,Afternoon,Completed
+U249,DataScience,20,11.1,2,0,1,1,64,2,37,Yes,Tablet,Evening,Not Completed
+U250,DataScience,30,5.7,4,0,0,0,3,2,11,No,Laptop,Evening,Not Completed
+U251,Python,40,36.2,1,2,6,2,74,5,77,No,Laptop,Evening,Completed
+U252,AI Basics,60,28.5,1,2,2,2,51,3,33,No,Tablet,Afternoon,Not Completed
+U253,AI Basics,40,29.8,2,2,3,1,83,5,48,No,Laptop,Night,Completed
+U254,ML,45,43.6,0,3,4,2,67,9,66,Yes,Tablet,Morning,Completed
+U255,AI Basics,20,2.3,6,0,0,1,33,2,18,No,Mobile,Morning,Not Completed
+U256,ML,40,13.2,5,0,0,1,36,0,6,No,Laptop,Morning,Not Completed
+U257,Python,20,13.7,4,1,0,2,54,5,40,No,Mobile,Morning,Not Completed
+U258,AI Basics,40,33.8,1,2,3,1,80,7,88,No,Laptop,Afternoon,Completed
+U259,SQL,45,21.5,4,2,2,2,54,3,27,Yes,Laptop,Night,Not Completed
+U260,DataScience,40,19.9,4,0,1,1,49,3,43,Yes,Laptop,Evening,Not Completed
+U261,SQL,45,15.7,2,0,0,0,45,0,16,No,Tablet,Morning,Not Completed
+U262,DataScience,20,10.8,4,0,1,2,52,4,46,Yes,Laptop,Night,Not Completed
+U263,AI Basics,60,51.1,2,1,3,1,74,7,55,No,Tablet,Morning,Completed
+U264,DataScience,45,24.3,2,0,2,2,47,2,49,No,Laptop,Evening,Not Completed
+U265,WebDev,60,59.4,2,1,4,2,93,10,54,No,Mobile,Afternoon,Completed
+U266,DataScience,60,19.1,2,0,0,1,18,0,6,No,Mobile,Afternoon,Not Completed
+U267,WebDev,45,28.0,4,2,2,2,51,2,34,No,Laptop,Night,Completed
+U268,DataScience,45,29.2,1,2,1,1,46,2,36,No,Laptop,Night,Completed
+U269,AI Basics,40,19.5,1,0,3,1,53,5,49,Yes,Mobile,Morning,Not Completed
+U270,WebDev,45,22.9,4,1,2,2,75,4,40,Yes,Tablet,Morning,Not Completed
+U271,Python,60,50.6,0,4,3,2,86,7,80,Yes,Tablet,Afternoon,Completed
+U272,DataScience,60,46.3,2,1,3,2,92,8,50,No,Laptop,Evening,Completed
+U273,ML,45,8.1,6,0,0,0,10,2,10,No,Tablet,Morning,Not Completed
+U274,ML,45,37.0,2,4,5,2,89,5,88,No,Tablet,Morning,Completed
+U275,WebDev,40,24.0,2,2,0,1,44,4,23,Yes,Tablet,Afternoon,Completed
+U276,Python,60,12.1,6,0,0,1,19,0,14,No,Mobile,Night,Not Completed
+U277,Python,20,8.2,3,0,2,1,51,4,30,No,Mobile,Afternoon,Not Completed
+U278,WebDev,40,19.9,4,0,0,1,47,2,41,Yes,Mobile,Night,Not Completed
+U279,DataScience,45,26.2,1,0,0,1,67,4,37,Yes,Laptop,Evening,Not Completed
+U280,WebDev,30,5.0,2,0,0,1,19,0,14,No,Tablet,Night,Not Completed
+U281,AI Basics,30,25.5,0,3,5,2,68,6,57,Yes,Laptop,Morning,Completed
+U282,AI Basics,20,2.0,5,0,0,1,33,1,7,No,Tablet,Evening,Not Completed
+U283,ML,40,30.4,1,3,4,1,94,7,52,Yes,Tablet,Morning,Completed
+U284,ML,45,20.5,1,2,0,2,46,2,48,Yes,Tablet,Evening,Not Completed
+U285,Python,20,12.1,4,2,0,2,61,3,38,Yes,Mobile,Morning,Not Completed
+U286,DataScience,40,34.2,2,1,4,2,83,9,77,Yes,Mobile,Night,Completed
+U287,DataScience,20,18.7,1,3,4,2,80,4,58,Yes,Mobile,Morning,Completed
+U288,AI Basics,30,24.6,0,3,5,2,97,10,46,Yes,Mobile,Morning,Completed
+U289,ML,30,6.9,4,0,0,0,5,0,15,No,Laptop,Morning,Not Completed
+U290,ML,45,39.0,2,1,2,2,72,10,55,Yes,Laptop,Evening,Completed
+U291,AI Basics,20,6.0,2,0,0,1,34,1,12,No,Tablet,Evening,Not Completed
+U292,SQL,60,49.9,2,1,5,2,98,7,42,Yes,Laptop,Morning,Completed
+U293,WebDev,45,5.0,5,0,0,0,21,0,16,No,Laptop,Morning,Not Completed
+U294,WebDev,40,9.8,3,0,0,1,35,2,8,No,Laptop,Night,Not Completed
+U295,ML,30,19.4,1,1,0,2,74,5,28,Yes,Mobile,Evening,Completed
+U296,Python,40,5.9,4,0,0,1,11,0,7,No,Tablet,Morning,Not Completed
+U297,WebDev,20,18.9,2,4,4,1,99,7,69,No,Tablet,Night,Completed
+U298,AI Basics,45,14.6,5,0,0,0,3,1,8,No,Laptop,Night,Not Completed
+U299,WebDev,40,15.7,2,0,0,0,11,2,17,No,Tablet,Morning,Not Completed
+U300,AI Basics,30,5.9,6,0,0,1,33,2,5,No,Tablet,Night,Not Completed
